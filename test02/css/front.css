@@ -14,3 +14,43 @@
     left: 38%;;
     color: white;
 }
+.Textarea{
+    position: absolute;
+    top: 950px;
+    left: 20px;
+}
+.Tittle{
+    font-family: "Microsoft Yahei";
+    font-size: 200%;
+    font-weight: 600;
+    font-size: 300%;
+    color: black;
+}
+.Textbody{
+    font-family: "Microsoft Yahei";
+    font-size: 100%;
+    font-size: 200%;
+    color: black;
+    width: 100%;
+    text-indent: 5%;
+}
+.hiddens{
+    position: absolute;
+    font-family: "Microsoft Yahei";
+    font-size: 100%;
+    font-size: 200%;
+    color: black;
+    top:9999px;
+    width: 100%;
+    text-indent: 5%;
+}
+.hidden{
+    position: absolute;
+    font-family: "Microsoft Yahei";
+    font-size: 100%;
+    font-size: 200%;
+    color: black;
+    top:99999px;
+    width: 100%;
+    text-indent: 5%;
+}
