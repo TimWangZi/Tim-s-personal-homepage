@@ -1,0 +1,28 @@
+*{margin:0px;padding:0px}
+.Buttonarea{
+    width: 105%;
+    height: 70px;
+    position: absolute;
+    margin: 0px 0px; 
+    top: 910px;
+}
+.box{
+    width: 33%;
+    height: 70px;
+    background: #ffffff;
+    color: black;
+    text-align: center;
+    font-family: "Microsoft Yahei";
+    font-size: 200%;
+    left: 0px;
+    text-decoration: none;
+    padding-left:14.37%;
+    padding-right:14.37%;
+}
+.box:hover{
+    width: 50%;
+    height: 70px;
+    background: #eeeeee;
+    text-align: center;
+    text-decoration: none;
+}

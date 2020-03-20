@@ -1,0 +1,15 @@
+.top{
+    position: absolute;
+    width: 100%;
+    background: #0084ff;
+    color: #ffffff;
+    top: 0px;
+    left: 0px; 
+    text-align: center;
+    font-family: "Microsoft Yahei";
+    font-size: 400%;
+}
+.panel{
+    position: absolute;
+    top: 300px;
+}

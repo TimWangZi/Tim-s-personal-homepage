@@ -2,7 +2,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 700%;
     position: absolute;
-    top: 3%;
+    top: 9%;
     left: 36%;;
     color: white;
 }
@@ -16,7 +16,7 @@
 }
 .Textarea{
     position: absolute;
-    top: 950px;
+    top: 980px;
     left: 20px;
 }
 .Tittle{
